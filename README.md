@@ -1,4 +1,6 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+## Code Institute - Milestone Project 1
+
+<!-- ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome,
 
@@ -35,5 +37,5 @@ To log into the Heroku toolbelt CLI:
 You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
 ---
-
+-->
 Happy coding!
