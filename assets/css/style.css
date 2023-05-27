@@ -37,7 +37,7 @@
     background-clip: text;
     -webkit-text-fill-color: rgba(255, 255, 255, 0);
     animation: animate 6s linear infinite;
-   }
+}
    
    @keyframes animate {
     0% {
@@ -46,20 +46,20 @@
     100% {
       background-position: 500%;
     }
-   }
-   /* welcome text */
-   .col-lg-8 p {
+}
+/* welcome text */
+.col-lg-8 p {
     font-size: 1.2rem;
     text-transform: uppercase;
     color: transparent;
     background-position: right;
     background-size: 100% 100%;
     background-image: linear-gradient(grey, rgba(128, 128, 128, 0.466));
-   }
-   .col-lg-8:hover p {
+}
+.col-lg-8:hover p {
     color: black;
     background-size: 0% 100%;
-   }
+}
    .col-lg-8:left p {
     font-size: 1.2rem;
     text-transform: uppercase;
@@ -67,15 +67,14 @@
     background-position: left;
     background-size: 100% 100%;
     background-image: linear-gradient(grey, rgba(128, 128, 128, 0.466));
-   }
+}
    .col-lg-8:left:hover p {
     color: black;
     background-size: 0% 100%;
-   }
-   /* about section image css */
-   .imageAboutPage {
+}
+/* about section image css */
+.imageAboutPage {
       width: 100%;
       height: auto;
-   }
-
+}
    
