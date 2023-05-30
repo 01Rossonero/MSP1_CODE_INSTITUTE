@@ -29,3 +29,20 @@ Returning Visitor Goals:
 As a returning visitor, I want to be reminded of what Creative Design is about and how it operates.
 As a returning visitor, I want convenient and easily accessible contact options to address any inquiries or concerns.
 As a returning visitor, I want to review updated testimonials to reinforce my trust in the organization.
+
+#Design:
+
+Wireframes:
+
+I mainly stuck to the wireframe designs, all changes that were made were to improve the website user expierence and aesthetic.
+
+### Wireframes
+
+The wireframes for this project were developed using [Balsamiq](https://balsamiq.com/).
+
+| Mobile | Desktop|
+------------------------|----------------------|
+| [Mobile Home Page](assets/images/wireframes/Homepage%20-%20Mobile.png) | [Desktop Home Page](assets/images/wireframes/Homepage%20-%20Desktop.png) |
+| [Mobile Get Started Page](assets/images/wireframes/About%20-%20Mobile.png) | [Desktop Get Started Page](assets/images/wireframes/About%20-%20Desktop.png) |
+| [Mobile Classes Page](assets/images/wireframes/Services%20-%20Mobile.png) | [Desktop Classes Page](assets/images/wireframes/Services%20-%20Desktop.png ) |
+| [Mobile Contact Page](assets/images/wireframes/Contact%20-Mobile.png) | [Desktop Contact Page](assets/images/wireframes/Contact%20-%20Desktop.png) |
