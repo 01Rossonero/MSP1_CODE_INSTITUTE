@@ -207,6 +207,14 @@ body{
 .rating {
   text-align: center;
 }
+/* about section image css */
+.imageAboutPage {
+  width: 100%;
+  height: auto;
+}
+img:hover {
+  transform: scaleX(-1);
+}
 .imageAboutPage {
     padding-bottom: 2%;
     margin-inline-start: auto;
