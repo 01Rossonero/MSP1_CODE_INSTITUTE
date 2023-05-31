@@ -61,7 +61,7 @@ Overall, this portfolio has been designed to provide a seamless and enjoyable us
 
 [ImaginecolorPicker](https://imagecolorpicker.com/) was used at first to establish a combination of colours that compliment each other. All of them were picked directly from the hero image.
 
-<img src="assets/images/wireframes/Colours%20Picker.png" alt="Colour Chart" width="800" height="600"/>
+<img src="assets/images/wireframes/Colours%20Picker.png" alt="Colour Chart" width="800" height="500"/>
 
 ### Existing Features:
 
@@ -106,6 +106,7 @@ classes.html
 - Git was used for version control and to push code to GitHub.
 - [GitHub](https://github.com/) was used to store the repository.
 - [GitPod & Visual Studio Code](https://gitpod.io) & (https://code.visualstudio.com/) were used as the IDE to develop the project.
+- [GoogleFonts](https://fonts.google.com/)
 - Google Maps was used to display the location of the studio.
 
 # TESTING:
@@ -155,5 +156,4 @@ Most content was written by the developer.
 ### Credits:
 
 Code Institute for providing endless help and resources to get me this far.
-My mentor Jubril Akolade for the help and patience to guide me through my first project.
 Friends and Family who have taken their time to offer advice and feedback during the development of my project.
