@@ -77,7 +77,7 @@ To enhance the visual appeal and engagement of the portfolio, high-quality image
 
 Overall, the design of this portfolio aims to strike a balance between professionalism and personality, while also showcasing my skills and experience in a visually compelling way.
 
-### WIREFRAMES:
+### Wireframes:
 
 I mainly stuck to the wireframe designs, all changes that were made were to improve the website user expierence and aesthetic.
 The wireframes for this project were developed using [Balsamiq](https://balsamiq.com/).
@@ -93,28 +93,11 @@ The wireframes for this project were developed using [Balsamiq](https://balsamiq
 
 During the development process some changes were made to the initial wireframes.
 
-### COLOURS:
+### Colors:
 
 [ImaginecolorPicker](https://imagecolorpicker.com/) was used at first to establish a combination of colours that compliment each other. All of them were picked directly from the hero image.
 
 <img src="assets/images/wireframes/Colours%20Picker.png" alt="Colour Chart" width="800" height="500"/>
-
-### IMA:
-### Content responsiveness:
-This website has been designed with content responsiveness in mind, to ensure that it looks great and is easy to use across a wide range of devices and screen sizes.
-
-To achieve this, the site layout and design are built using responsive design principles and are optimized for a variety of screen sizes, including desktops, laptops, tablets, and mobile devices. This means that the content will automatically adjust and adapt to fit the size and shape of the user's screen, ensuring that it is always easy to read and navigate.
-
-In addition, the site's images and multimedia content are optimized for fast loading times and compatibility with a range of devices and browsers. This means that users on slow connections or older devices will still be able to access and enjoy the webstite's content without any issues.
-
-Overall, this website has been designed to provide a seamless and enjoyable user experience, regardless of the user's device or screen size. If you encounter any issues with content responsiveness or have any suggestions for improvement, please feel free to reach out and let me know.
-
-### Existing Features:
-
-
-#### Features Left to Implement:
- * Use javascript to perform return to top page.
- * Use javascript and listeners to require at least one checkbox to be checked before submitting the form on contact us page.
 
 ### Images:
 
@@ -138,12 +121,22 @@ about.html
 services.html
 
 
+### Existing Features:
+
+
+#### Features Left to Implement:
+ * Use javascript to perform return to top page.
+ * Use javascript and listeners to require at least one checkbox to be checked before submitting the form on contact us page.
+
+
+
+
 # TECNOLOGIES:
-#### Languages:
+### Languages:
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) The project uses HTML5 to make up the basic elements and structure of the website.
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) I have used CSS3 to add my own custom styling and to change default bootstrap styling where and when needed.
-#### Frameworks and Libraries:
+### Frameworks and Libraries:
 
 - [Balsamiq](https://balsamiq.com/) was used to create the wireframes for this project during the design process.
 - [Bootstrap 5.1.3](https://getbootstrap.com/docs/5.1/getting-started/introduction/) was contributed to the responsiveness and styling of the project.
@@ -157,19 +150,52 @@ services.html
 - [The W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) I used this validation tool to check my CSS for errors.
 - [Color contrast](https://wave.webaim.org/report#/https://tararhoseyn.github.io/CardiffSwimCentreMS1/) I used this tool to compare colors for the website.
 - [Autoprefixer CSS online](https://autoprefixer.github.io/) I used this to check to this Autoprefixer online to parses the CSS and add vendor prefixes to CSS. It is recommended by Google and used by Twitter and Taobao.
-    
-
-
 - Google Maps was used to display the location of the studio.
 
 # TESTING:
 
-### Validator
+### Validation:
 The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator Services](https://jigsaw.w3.org/css-validator/) were used to validate both pages of the project to ensure there were no syntax errors in the project.
 
+* W3C Markup Validator Home - [Results](assets/images/testing/desktop-home-page-validitation.png)
+  * The homepage passed with 0 errors
+* W3C Markup Validator About page - [Results](assets/images/testing/desktop-about-page-validitation.png)
+  * The Login page passed with 0 errors
+  W3C Markup Validator About page - [Results](assets/images/testing/desktop-services-page-validitation.png)
+  * The Login page passed with 0 errors
+  W3C Markup Validator About page - [Results](assets/images/testing/desktop-contact-page-validitation.png)
+  * The Login page passed with 0 errors
 
+* W3C CSS Validator - [Results](assets/images/testing/w3-css-validator.png)
+  * The CSS passed with 0 errors
 
+### Performance:
+* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) was used to measure the performance and speed of the website. 
+  * Click on the page name to see the result for desktop: [Home](assets/images/testing/lighthouse-home-desktop.png) | [About](assets/images/testing/lighthouse-about-desktop.png)
+  * Click on the page name to see the result for mobile: [Home](assets/images/testing/lighthouse-home-mobile.png) | [About](assets/images/testing/lighthouse-home-mobile.png)
 
+### Responsiveness:
+This website has been designed with content responsiveness in mind, to ensure that it looks great and is easy to use across a wide range of devices and screen sizes.
+
+To achieve this, the site layout and design are built using responsive design principles and are optimized for a variety of screen sizes, including desktops, laptops, tablets, and mobile devices. This means that the content will automatically adjust and adapt to fit the size and shape of the user's screen, ensuring that it is always easy to read and navigate.
+
+In addition, the site's images and multimedia content are optimized for fast loading times and compatibility with a range of devices and browsers. This means that users on slow connections or older devices will still be able to access and enjoy the webstite's content without any issues.
+
+Overall, this website has been designed to provide a seamless and enjoyable user experience, regardless of the user's device or screen size. If you encounter any issues with content responsiveness or have any suggestions for improvement, please feel free to reach out and let me know.
+
+* The website was tested using  desk the 'inspect' option availabale on Google and Internet explorer for differnt screen sizes and mobile. The following devices showed zero errors with responsiveness or format.
+
+* Devices:
+  * Samsung Galaxy S20 
+  * iPhone X
+  * iPhone 11
+  * Lenovo IdeaPad S340-14IIL
+  * Samsung A70
+  * Toshiba satellite 
+
+### Accessability 
+
+* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) gave the website a score of 96% accessability for both mobile and desktop. 4% was lost for *'Background and foreground colors do not have a sufficient contrast ratio.'* This was flagged earlier on in the project and changes were made to increase the score to 96%. Futher updates to the project would look to improve the website accessability and gain a score of 100%.
 
 # DEPLOYMENT & LOCAL DEVELOPMENT:
 ### Deployment:
