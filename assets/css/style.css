@@ -6,7 +6,6 @@
     background: url('/assets/images/heroImage.jpeg');
     background-size:cover;
     position:relative;
-    rgba(0, 0, 0, 50)
 }
 /* text css above hero image*/
 .hero_title {
@@ -215,7 +214,7 @@ body{
   width: 100%;
   height: auto;
 }
-img:hover {
+.imageAboutPage:hover {
   transform: scaleX(-1);
 }
 .imageAboutPage {

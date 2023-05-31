@@ -110,15 +110,19 @@ Meet the Team: The images chosen for the "Meet the Team" section reflect our com
 Latest Work Showcase: The portfolio section features a curated selection of design projects, highlighting different styles, disciplines, and techniques. Each project image is chosen to demonstrate versatility, innovation, and the ability to solve design problems effectively.
 
 Overall, the selected images aim to create a visually appealing and cohesive representation of the designer's style, expertise, and passion for the field. They serve to engage and inspire visitors while showcasing the designer's capabilities and creating a strong visual impact.
-#### Media:
+### Media:
 
-index.html
+### home page:
+1. Hero: https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Lemoyne_-_L%27Apoth%C3%A9ose_d%27Hercule_-_Google_Art_Project.jpg
+2. AboutUs: https://www.pexels.com/photo/head-bust-on-yellow-background-12951546/
+### about page:
+1. team1: https://www.freepik.com/photos/formal-wear
+2. team2: https://cartomy.com/womens-clothes/
+3. team3: https://www.freepik.com/free-photo/optimistic-attractive-ginger-girl-20s-wearing-purple-sweater-standing-ready-energized-violer-background-smiling-friendly-confident-camera-showing-readiness-have-fun_19419901.htm
+4. Portfolio1,2,3: https://www.invisionapp.com/inside-design/10-portfolio-websites-to-show-off-your-design-work/
+### services:
+1. testimonials1,2,3: https://images.google.com/ 
 
-
-about.html
-
-
-services.html
 
 # FEATURES:
 ### Existing Features:
@@ -142,10 +146,6 @@ services.html
 ### Features Left to Implement:
  * Use javascript to perform return to top page.
  * Use javascript and listeners to require at least one checkbox to be checked before submitting the form on contact us page.
-
-
-
-
 # TECNOLOGIES:
 ### Languages:
 
@@ -247,6 +247,9 @@ Most content was written by the developer.
 
 * The navbar is a modified version of [Bootstrap's navbar](https://getbootstrap.com/docs/4.0/components/navbar/).
 * Throught the site Bootstrap's grid system has been implemented and button styling used.
+* Type effects are a modified version of (https://codepen.io/tag/typewriter?cursor=ZD0xJm89MCZwPTY=)
+* The team members section is modified version of (https://www.youtube.com/watch?v=Ve6bVUysF0w)
+* 
 
 ### Credits:
 
