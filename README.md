@@ -1,3 +1,4 @@
+![Creative Design](assets/images/heroImage.jpeg)
 # CODE INSTITUTE - MILESTONE PROJECT: CREATIVE DESIGN WEBSITE:
 
 CREATIVE DESIGN is a responsive website that allows visitors to seamlessly view it on a wide range of devices. It serves as a platform to showcase skills, abilities, experiences, and accomplishments to potential employers, clients, or collaborators. By doing so, it helps establish a robust online presence and create a professional brand image that aligns with values, mission, and target audience.
