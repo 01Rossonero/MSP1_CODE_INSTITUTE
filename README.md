@@ -1,12 +1,19 @@
-# CODE INSTITUTE - MILESTONE PROJECT: CREATIVE DESIGN
-
-# CREATIVE DESIGN WEBSITE:
+# CODE INSTITUTE - MILESTONE PROJECT: CREATIVE DESIGN WEBSITE:
 
 CREATIVE DESIGN is a responsive website that allows visitors to seamlessly view it on a wide range of devices. It serves as a platform to showcase skills, abilities, experiences, and accomplishments to potential employers, clients, or collaborators. By doing so, it helps establish a robust online presence and create a professional brand image that aligns with values, mission, and target audience.
 
 # SITE GOALS:
 
-The primary goal of this website is to showcase our skills and experience as Designers & Developers, and to present ourselves as strong candidates for potential job opportunities or collaborations.
+The primary goal of our Web Design agency's is to showcase our expertise and capabilities to potential clients and collaborators, establishing us as a trusted and top choice in the industry. Specifically, our website aims to:
+
+Highlight our agency's comprehensive range of web design services, including our proficiency in various design disciplines, such as UI/UX design, responsive design, and interactive design.
+Showcase our successful projects, demonstrating our ability to deliver exceptional web design solutions that meet the unique needs and objectives of our clients.
+Illustrate our team's skills and strengths, emphasizing our technical expertise, creative thinking, and ability to provide innovative design solutions that exceed client expectations.
+Make it easy for potential clients and collaborators to learn more about our agency, explore our works, and get in touch with us for inquiries or project discussions.
+Create a memorable and engaging user experience through a visually appealing and intuitive design, incorporating high-quality visuals, interactive elements, and smooth navigation.
+To achieve these goals, our website will prioritize a clean and professional design aesthetic, ensuring that the showcased projects and content are visually impactful and effectively communicate our expertise. The portfolio will also provide clear and accessible contact information, making it convenient for interested parties to connect with us.
+
+Through our portfolio, we aim to establish our agency as a leader in web design, showcasing our ability to create visually stunning, user-friendly, and results-driven websites that drive business success for our clients.
 
 # USER STORIES:
 
