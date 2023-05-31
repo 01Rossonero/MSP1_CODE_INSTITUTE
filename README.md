@@ -45,8 +45,6 @@ To achieve these goals, our website will prioritize a clean and professional des
 Through our portfolio, we aim to establish our agency as a leader in web design, showcasing our ability to create visually stunning, user-friendly, and results-driven websites that drive business success for our clients.
 
 # USER EXPERIENCE:
-# USER STORIES:
-
 ### Site Owner Goals:
 
 * User-Friendly Experience: Create a website that offers a seamless and intuitive user experience, ensuring that visitors can easily navigate through the site, find information, and engage with the desired actions, such as signing up for memberships or contacting the site owner.
@@ -54,6 +52,7 @@ Through our portfolio, we aim to establish our agency as a leader in web design,
 * Engage and Retain Users: Develop a captivating website design that not only attracts new users but also fosters a sense of community and encourages user engagement.
 * Accessibility and Responsiveness: Ensure that the website is accessible to all users, regardless of their abilities or the devices they use. Optimize the design for responsiveness, allowing the site to adapt seamlessly to different screen sizes and devices, providing a consistent and user-friendly experience across platforms.
 
+### User stories:
 ### First Time Visitors Goals:
 
 * As a first-time visitor, I want to quickly understand the main purpose of the website and learn more about the organization behind it.
@@ -120,11 +119,19 @@ about.html
 
 services.html
 
-
+# FEATURES:
 ### Existing Features:
+# Home 
+
+# About
+
+# Services
 
 
-#### Features Left to Implement:
+# Contact
+
+
+### Features Left to Implement:
  * Use javascript to perform return to top page.
  * Use javascript and listeners to require at least one checkbox to be checked before submitting the form on contact us page.
 
@@ -153,7 +160,6 @@ services.html
 - Google Maps was used to display the location of the studio.
 
 # TESTING:
-
 ### Validation:
 The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator Services](https://jigsaw.w3.org/css-validator/) were used to validate both pages of the project to ensure there were no syntax errors in the project.
 
