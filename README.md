@@ -86,17 +86,17 @@ Overall, the selected images aim to create a visually appealing and cohesive rep
 index.html
 
 
-get-started.html
+about.html
 
 
-classes.html
+services.html
 
 
 # TECNOLOGIES:
 #### Languages:
 
-- HTML
-- CSS3
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) The project uses HTML5 to make up the basic elements and structure of the website.
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) I have used CSS3 to add my own custom styling and to change default bootstrap styling where and when needed.
 #### Frameworks and Libraries:
 
 - [Balsamiq](https://balsamiq.com/) was used to create the wireframes for this project during the design process.
@@ -106,10 +106,20 @@ classes.html
 - Git was used for version control and to push code to GitHub.
 - [GitHub](https://github.com/) was used to store the repository.
 - [GitPod & Visual Studio Code](https://gitpod.io) & (https://code.visualstudio.com/) were used as the IDE to develop the project.
-- [GoogleFonts](https://fonts.google.com/)
+- [GoogleFonts](https://fonts.google.com/) Google fonts were used to import the 'Permanent Marker' font into the style.css file which is used throughout the project.
+- [The W3C Markup Validation Service](https://validator.w3.org/) I used this validation tool to check my HMTL for errors.
+- [The W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) I used this validation tool to check my CSS for errors.
+- [Color contrast](https://wave.webaim.org/report#/https://tararhoseyn.github.io/CardiffSwimCentreMS1/) I used this tool to compare colors for the website.
+- [Autoprefixer CSS online](https://autoprefixer.github.io/) I used this to check to this Autoprefixer online to parses the CSS and add vendor prefixes to CSS. It is recommended by Google and used by Twitter and Taobao.
+    
+
+
 - Google Maps was used to display the location of the studio.
 
 # TESTING:
+
+### Validator
+The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator Services](https://jigsaw.w3.org/css-validator/) were used to validate both pages of the project to ensure there were no syntax errors in the project.
 
 
 
@@ -144,7 +154,6 @@ To clone the MSP1_CODE_INSTITUTE repository:
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
-- - -
 ---
 ### Content:
 
