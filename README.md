@@ -2,6 +2,35 @@
 
 CREATIVE DESIGN is a responsive website that allows visitors to seamlessly view it on a wide range of devices. It serves as a platform to showcase skills, abilities, experiences, and accomplishments to potential employers, clients, or collaborators. By doing so, it helps establish a robust online presence and create a professional brand image that aligns with values, mission, and target audience.
 
+## TABLE OF CONTENTS
+## Table of Contents
+* [Site Goals](#site-Goals)
+* [User Expierence](#User-Expierence)
+    * [User Stories](#User-Stories)
+    * [Site Owner Goals](#User-Stories)
+    * [First Time Visitor Goals](#First-Time-Visitor-Goals)
+    * [A Returning Visitor Goals](#A-Returning-Visitor-Goals)
+* [Design](#Design)
+    * [Wireframes](#Wireframes)
+    * [Colors](#Colors)
+    * [Typography](#Typography)
+    * [Imagery](#Imagery)
+* [Features](#Features)
+    * [Homepage features](#Homepage-Features)
+    * [Login page features](#Login-page-features)
+* [Technologies](#Technologies)
+    * [Languages](#Languages)
+    * [Frameworks & Tools](#Frameworks-&-Tools)
+* [Testing](#Testing)
+    * [Validation](#Validation)
+    * [Performance](#Performance)
+    * [Responsivness](#Responsivness)
+    * [Accessability](#Accessability)
+    * [Known Issues and Bugs](Known-Issues-and-Bugs)
+* [Deployment](#Deployment)
+* [Credits](#Credits)
+* [Awknowledgments](#Awknowledgments)
+
 # SITE GOALS:
 
 The primary goal of our Web Design agency's is to showcase our expertise and capabilities to potential clients and collaborators, establishing us as a trusted and top choice in the industry. Specifically, our website aims to:
@@ -15,9 +44,10 @@ To achieve these goals, our website will prioritize a clean and professional des
 
 Through our portfolio, we aim to establish our agency as a leader in web design, showcasing our ability to create visually stunning, user-friendly, and results-driven websites that drive business success for our clients.
 
+# USER EXPERIENCE:
 # USER STORIES:
 
-### Site Owner Goal:
+### Site Owner Goals:
 
 * User-Friendly Experience: Create a website that offers a seamless and intuitive user experience, ensuring that visitors can easily navigate through the site, find information, and engage with the desired actions, such as signing up for memberships or contacting the site owner.
 * Reflect Brand Identity: Design a website that authentically represents the brand's identity, values, and aesthetics, creating a cohesive and compelling online presence that resonates with the target audience. 
@@ -47,7 +77,7 @@ To enhance the visual appeal and engagement of the portfolio, high-quality image
 
 Overall, the design of this portfolio aims to strike a balance between professionalism and personality, while also showcasing my skills and experience in a visually compelling way.
 
-### Wireframes:
+### WIREFRAMES:
 
 I mainly stuck to the wireframe designs, all changes that were made were to improve the website user expierence and aesthetic.
 The wireframes for this project were developed using [Balsamiq](https://balsamiq.com/).
@@ -61,8 +91,15 @@ The wireframes for this project were developed using [Balsamiq](https://balsamiq
 
 ### Changes to Wireframes:
 
-During the development process some changes were made to the initial wireframes. 
+During the development process some changes were made to the initial wireframes.
 
+### COLOURS:
+
+[ImaginecolorPicker](https://imagecolorpicker.com/) was used at first to establish a combination of colours that compliment each other. All of them were picked directly from the hero image.
+
+<img src="assets/images/wireframes/Colours%20Picker.png" alt="Colour Chart" width="800" height="500"/>
+
+### IMA:
 ### Content responsiveness:
 This website has been designed with content responsiveness in mind, to ensure that it looks great and is easy to use across a wide range of devices and screen sizes.
 
@@ -71,12 +108,6 @@ To achieve this, the site layout and design are built using responsive design pr
 In addition, the site's images and multimedia content are optimized for fast loading times and compatibility with a range of devices and browsers. This means that users on slow connections or older devices will still be able to access and enjoy the webstite's content without any issues.
 
 Overall, this website has been designed to provide a seamless and enjoyable user experience, regardless of the user's device or screen size. If you encounter any issues with content responsiveness or have any suggestions for improvement, please feel free to reach out and let me know.
-
-### Colour Scheme:
-
-[ImaginecolorPicker](https://imagecolorpicker.com/) was used at first to establish a combination of colours that compliment each other. All of them were picked directly from the hero image.
-
-<img src="assets/images/wireframes/Colours%20Picker.png" alt="Colour Chart" width="800" height="500"/>
 
 ### Existing Features:
 
