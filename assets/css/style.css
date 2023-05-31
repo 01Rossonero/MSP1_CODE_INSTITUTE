@@ -22,7 +22,9 @@
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
     color: #0C151C;
 }
 /* welcome title */
@@ -32,6 +34,8 @@
     font-size: 3rem;
     letter-spacing: 2px;
     overflow: hidden;
+    background: -webkit-gradient(linear, left top, right top, from(#000), color-stop(#fff), to(#000));
+    background: -o-linear-gradient(left, #000, #fff, #000);
     background: linear-gradient(90deg, #000, #fff, #000);
     background-repeat: no-repeat;
     background-size: 80%;
@@ -39,7 +43,17 @@
     -moz-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: rgba(255, 255, 255, 0);
-    animation: animate 7s linear infinite;
+    -webkit-animation: animate 7s linear infinite;
+            animation: animate 7s linear infinite;
+}
+   
+   @-webkit-keyframes animate {
+    0% {
+      background-position: -500%;
+    }
+    100% {
+      background-position: 500%;
+    }
 }
    
    @keyframes animate {
@@ -57,6 +71,8 @@
     color: transparent;
     background-position: right;
     background-size: 100% 100%;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(grey), to(rgba(128, 128, 128, 0.765)));
+    background-image: -o-linear-gradient(grey, rgba(128, 128, 128, 0.765));
     background-image: linear-gradient(grey, rgba(128, 128, 128, 0.765));
 }
 .col-lg-8:hover p {
@@ -69,6 +85,8 @@
     color: transparent;
     background-position: left;
     background-size: 100% 100%;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(grey), to(rgba(128, 128, 128, 0.466)));
+    background-image: -o-linear-gradient(grey, rgba(128, 128, 128, 0.466));
     background-image: linear-gradient(grey, rgba(128, 128, 128, 0.466));
 }
    .col-lg-8:left:hover p {
@@ -80,12 +98,11 @@
       width: 100%;
       height: auto;
 }
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
-
 *{
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
 body{
@@ -105,7 +122,9 @@ body{
   padding-bottom: 2%;
 }
 .team-items{
+  display: -ms-grid;
   display: grid;
+  -ms-grid-columns: 1fr 30px 1fr 30px 1fr;
   grid-template-columns: repeat(3, 1fr);
   gap: 30px;
 }
@@ -128,10 +147,21 @@ body{
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
   padding: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-transition: height 0.6s ease;
+  -o-transition: height 0.6s ease;
   transition: height 0.6s ease;
 }
 .team-item h3{
@@ -150,9 +180,15 @@ body{
   width: 40px;
   border: 1px solid hsl(0, 0%, 100%);
   color: hsl(0, 0%, 100%);
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
   display: inline-flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   border-radius: 50%;
   text-decoration: none;
   margin: 0 5px;
@@ -168,11 +204,13 @@ body{
 }
 @media(max-width: 991px){
   .team-items{
+    -ms-grid-columns: (1fr)[2];
     grid-template-columns: repeat(2, 1fr);
   }
 }
 @media(max-width: 575px){
   .team-items{
+    -ms-grid-columns: (1fr)[1];
     grid-template-columns: repeat(1, 1fr);
   }
 }
