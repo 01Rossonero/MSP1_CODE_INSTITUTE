@@ -39,6 +39,14 @@ As a returning visitor, I want to review updated testimonials to reinforce my tr
 
 # DESIGN:
 
+The design of this portfolio has been carefully crafted to showcase my professional background and creative abilities in a visually appealing and easy-to-navigate format.
+
+The color scheme and typography of the portfolio have been thoughtfully chosen to present a professional and polished image while reflecting my personality and style. The color palette and font selection are harmonious, and the typography is legible and easy on the eyes.
+
+To enhance the visual appeal and engagement of the portfolio, high-quality images and multimedia content have been incorporated throughout. These have been carefully selected and optimized to load quickly and be compatible with a range of devices and browsers.
+
+Overall, the design of this portfolio aims to strike a balance between professionalism and personality, while also showcasing my skills and experience in a visually compelling way.
+
 ### Wireframes:
 
 I mainly stuck to the wireframe designs, all changes that were made were to improve the website user expierence and aesthetic.
@@ -56,13 +64,13 @@ The wireframes for this project were developed using [Balsamiq](https://balsamiq
 During the development process some changes were made to the initial wireframes. 
 
 ### Content responsiveness:
-This portfolio has been designed with content responsiveness in mind, to ensure that it looks great and is easy to use across a wide range of devices and screen sizes.
+This website has been designed with content responsiveness in mind, to ensure that it looks great and is easy to use across a wide range of devices and screen sizes.
 
 To achieve this, the site layout and design are built using responsive design principles and are optimized for a variety of screen sizes, including desktops, laptops, tablets, and mobile devices. This means that the content will automatically adjust and adapt to fit the size and shape of the user's screen, ensuring that it is always easy to read and navigate.
 
-In addition, the site's images and multimedia content are optimized for fast loading times and compatibility with a range of devices and browsers. This means that users on slow connections or older devices will still be able to access and enjoy the portfolio's content without any issues.
+In addition, the site's images and multimedia content are optimized for fast loading times and compatibility with a range of devices and browsers. This means that users on slow connections or older devices will still be able to access and enjoy the webstite's content without any issues.
 
-Overall, this portfolio has been designed to provide a seamless and enjoyable user experience, regardless of the user's device or screen size. If you encounter any issues with content responsiveness or have any suggestions for improvement, please feel free to reach out and let me know.
+Overall, this website has been designed to provide a seamless and enjoyable user experience, regardless of the user's device or screen size. If you encounter any issues with content responsiveness or have any suggestions for improvement, please feel free to reach out and let me know.
 
 ### Colour Scheme:
 
