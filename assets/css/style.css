@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Permanent+Marker&family=Rubik+Puddles&family=Satisfy&display=swap');
+
 /* hero background image */
 .bgimage {
     height:100vh;
@@ -12,7 +14,7 @@
 .hero_desc {
     text-transform: uppercase;
     font-size: 1.2rem;
-    padding-inline: 8rem;
+    padding-inline: 4rem;
 }
 .hero-text {
     text-transform: uppercase;
@@ -25,7 +27,7 @@
 }
 /* welcome title */
 .text-center {
-    font-family: sans-serif;
+    font-family: 'Permanent Marker', cursive;
     text-transform: uppercase;
     font-size: 3rem;
     letter-spacing: 2px;
@@ -50,12 +52,12 @@
 }
 /* welcome text */
 .col-lg-8 p {
-    font-size: 1.2rem;
+    font-size: 1rem;
     text-transform: uppercase;
     color: transparent;
     background-position: right;
     background-size: 100% 100%;
-    background-image: linear-gradient(grey, rgba(128, 128, 128, 0.466));
+    background-image: linear-gradient(grey, rgba(128, 128, 128, 0.765));
 }
 .col-lg-8:hover p {
     color: black;
@@ -98,11 +100,9 @@ body{
   padding: 0 15px;
 }
 /* team */
-.team{
-  padding: 4%;
-}
 .team-title{
-  padding-top: 4%;
+  padding-top: 3%;
+  padding-bottom: 2%;
 }
 .team-items{
   display: grid;
@@ -127,7 +127,7 @@ body{
   width: 100%;
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
-  padding: 15px;
+  padding: 10px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -177,8 +177,32 @@ body{
   }
 }
 .col-lg-6 {
-  padding-top: 4%;
+  padding-top: 2%;
 }
-.col-lg-8 h2 {
-  padding-bottom: 4%;
+.col-lg-8 {
+  padding-bottom: 2%;
+}
+.text-about {
+    text-transform: uppercase;
+    font-size: 1rem;
+    padding-inline: 6%;
+    padding-bottom: 2%;
+}
+.text-latest {
+  text-transform: uppercase;
+  font-size: 1rem;
+  padding-inline: 6%;
+  text-align: center;
+}
+.text-service {
+  text-transform: uppercase;
+  font-size: 1rem;
+  padding-inline: 6%;
+  text-align: center;
+}
+.text-testimonials {
+  text-transform: uppercase;
+  font-size: 1rem;
+  padding-inline: 6%;
+  text-align: center;
 }
