@@ -121,15 +121,22 @@ services.html
 
 # FEATURES:
 ### Existing Features:
-# Home 
-
+# Home  
+1. **The Navigation Bar** is responsive and collapses into a hamburger menu on smaller screens. It includes links to the home, about, services, and contact pages.
+2. A **Hero Image** with overlaying text to capture the attention of visitors.
+3. The **Who We Are** text section provides an overview of the agency's identity, skills, and design philosophy.
+4. The **Footer** includes social media icons (Facebook, Twitter, Google, Instagram, LinkedIn, GitHub) that link to their respective profiles or pages.
 # About
-
+1. The **Team Section** page includes a section that showcases the team members. Each team member is represented by an image, their name, and their role. Social media icons (Facebook, Twitter, Instagram, YouTube) are provided for each team member.
+2. The **Latest Works Section** includes a section that highlights the team's latest projects. Each project is represented by an image, a title, and a "Live Demo" link.
 # Services
-
-
+1. The Services section begins with a compelling introduction titled **Who We Are**, which provides a captivating overview of Creative Design and highlights the range of services they offer.
+2. The The services are showcased through an elegant **Card Section**, thoughtfully organized in a grid layout. Each card represents a distinct service provided by Creative Design, forming an engaging and visually appealing presentation.
+3. The **Testimonials Section** invites users to read client testimonials. The testimonials are displayed in a **Carousel Format**, showcasing feedback from three different clients. Each testimonial includes the client's name, position, a testimonial message, and a rating.
 # Contact
-
+1. **Hire Me** section is designed to grab the attention of potential clients. It features a dark background with a centered message inviting users to discuss their projects. It also includes a call-to-action button labeled "Hire Me", which allows users to take action and initiate contact.
+2. The **Contact Form Section** section includes a form for users to get in touch. The form consists of input fields for name, email, subject, and a textarea for users to provide project details. The form is designed to collect user information and project requirements effectively.
+3. The **Google Maps Integration** which allows users to view a location visually. The embedded map displays a specific location (in this case, New York) and provides users with a visual reference.
 
 ### Features Left to Implement:
  * Use javascript to perform return to top page.
